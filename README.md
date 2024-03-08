@@ -1,4 +1,4 @@
-#Git / GitHub RECA Workshop
+# Git / GitHub RECA Workshop
 
 Welcome to the Git / GitHub RECA Workshop
 
