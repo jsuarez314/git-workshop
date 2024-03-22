@@ -14,7 +14,7 @@ Welcome to the Git / GitHub RECA Workshop
 
 
 
-### Introducción a Git y GitHub
+### Introducción al desarrollo y diseño de páginas web con GitHub
 
 [Sesión 1: Fundamentos del Desarrollo Web Estático con Jekyll y Markdown](). [ [Recording] ]
 
