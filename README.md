@@ -16,7 +16,7 @@ Welcome to the Git / GitHub RECA Workshop
 
 ### Introducción al desarrollo y diseño de páginas web con GitHub
 
-[Sesión 1: Fundamentos del Desarrollo Web Estático con Jekyll y Markdown]. [ [Recording] ]
+[Sesión 5: Fundamentos del Desarrollo Web Estático con Jekyll y Markdown]. [ [Recording] ]
 
-[Sesión 2: Desarrollo Web Estático Avanzado con Jekyll y GitHub Pages]. [ [Recording] ]
+[Sesión 6: Desarrollo Web Estático Avanzado con Jekyll y GitHub Pages]. [ [Recording] ]
 
