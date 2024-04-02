@@ -10,7 +10,7 @@ Welcome to the Git / GitHub RECA Workshop
  
 [Sesión 3: GitHub y Colaboración en Proyectos](https://docs.google.com/presentation/d/1acRGoaexMfWMCGj5Rzpwy2sWK14cFcuL_teNk4v2rWQ/edit?usp=sharing). [ [Recording](https://drive.google.com/file/d/1V0-wvGWxH_Aj9XpSxytQlQkBPNx8tioz/view?usp=sharing) ]
 
-[Sesión 4: Proyecto Práctico y Buenas Prácticas]. [ [Recording] ]
+[Sesión 4: Proyecto Práctico y Buenas Prácticas](https://docs.google.com/presentation/d/1rCYnf3rP4yu47jKye9E2nTybEwBlTCJWOueF6lo4qFw/edit?usp=sharing). [ [Recording] ]
 
 
 
