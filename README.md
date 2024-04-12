@@ -19,5 +19,5 @@ Welcome to the Git / GitHub RECA Workshop
 
 [Sesión 5: Fundamentos del Desarrollo Web Estático con Jekyll y Markdown](https://docs.google.com/presentation/d/1L0KnTyoUJ6mdaEnfOOIjuyFXLQqEaCAfZms8V2Ur-KU/edit?usp=drive_link). [ [Grabación](https://drive.google.com/file/d/11mW--gMCNrB9KFFfuJWzWMlV30CFqjqP/view?usp=sharing) ]
 
-[Sesión 6: Desarrollo Web Estático Avanzado con Jekyll y GitHub Pages](https://docs.google.com/presentation/d/1ktosvRrzEK90OTaig3gfpiCd4nLESSZPF8Xb9oC7-hM/edit?usp=sharing). [ [Grabación]([Sesión 6: Desarrollo Web Estático Avanzado con Jekyll y GitHub Pages](https://drive.google.com/file/d/1L1CIhjIVk73u_KkJ10RvTE0VnJQLOKXs/view?usp=sharing)) ]
+[Sesión 6: Desarrollo Web Estático Avanzado con Jekyll y GitHub Pages](https://docs.google.com/presentation/d/1ktosvRrzEK90OTaig3gfpiCd4nLESSZPF8Xb9oC7-hM/edit?usp=sharing). [ [Grabación](Sesión 6: Desarrollo Web Estático Avanzado con Jekyll y GitHub Pages](https://drive.google.com/file/d/1L1CIhjIVk73u_KkJ10RvTE0VnJQLOKXs/view?usp=sharing) ]
 
